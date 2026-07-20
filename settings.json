@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Slobo",
     "password": "26.1.2",
     "type": "offline"
   },
@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 12000,
       "messages": [
         "I'm a sigma",
         "Subscribe to dark_yt!",
