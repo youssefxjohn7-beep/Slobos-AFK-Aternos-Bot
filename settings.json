@@ -2,7 +2,7 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Slobo",
-    "password": "26.1.2",
+    "password": "26.2",
     "type": "offline"
   },
   "server": {
@@ -37,7 +37,7 @@
       ]
     },
     "chat-log": true,
-    "auto-reconnect": true,
+    "auto-reconnect": false,
     "auto-reconnect-delay": 200000000,
     "max-reconnect-delay": 120000000
   },
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.gg/wehSgHFeSR",
     "events": {
       "connect": true,
       "disconnect": true,
