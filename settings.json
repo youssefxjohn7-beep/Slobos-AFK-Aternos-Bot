@@ -23,7 +23,7 @@
       "password": "chalol78"
     },
     "anti-afk": {
-      "enabled": true,
+      "enabled": false,
       "sneak": true
     },
     "chat-messages": {
@@ -73,7 +73,7 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
+    "enabled": true,
     "webhookUrl": "https://discord.gg/wehSgHFeSR",
     "events": {
       "connect": true,
