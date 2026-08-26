@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "EMPIRES-NETWORK.aternos.me",
+    "ip": "EMPIRES-NETWORK.aternos.me:47206",
     "port": 47206,
-    "version": "26.2",
+    "version": "",
     "try-creative": false
   },
   "position": {
