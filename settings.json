@@ -2,11 +2,11 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "EMPIRER",
-    "password": "26.2",
+    "password": "1234",
     "type": "offline"
   },
   "server": {
-    "ip": "EMPIRES-NETWORK.aternos.me:47206",
+    "ip": "EMPIRES-NETWORK.aternos.me",
     "port": 47206,
     "version": "",
     "try-creative": false
