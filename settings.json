@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobo",
+    "username": "EMPIRER",
     "password": "26.2",
     "type": "offline"
   },
   "server": {
-    "ip": "EMPIRESMC.aternos.me",
+    "ip": "EMPIRES-NETWORK.aternos.me",
     "port": 47206,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
@@ -27,12 +27,12 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
-      "repeat": true,
-      "repeat-delay": 12000,
+      "enabled": true,
+      "repeat": false,
+      "repeat-delay": 2500,
       "messages": [
-        "I'm a sigma",
-        "Subscribe to dark_yt!",
+        "DONT FORGET TO JOIN OUR DISCORD https://discord.gg/sC8BzZYxdB ",
+        " TELL 5 OF YOUR FRIENDS TO JOIN BOTH DISCORD AND SERVER FOR FREE KEYS ( TALK TO ADMIN FOR REDEEMING ) DO NUT LIE",
         "no cheats alowed!"
       ]
     },
@@ -74,11 +74,11 @@
   },
   "discord": {
     "enabled": true,
-    "webhookUrl": "https://discord.gg/wehSgHFeSR",
+    "webhookUrl": "https://discord.gg/sC8BzZYxdB",
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true
     }
   },
   "chat": {
