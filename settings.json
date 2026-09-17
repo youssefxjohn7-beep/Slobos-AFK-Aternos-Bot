@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "EMPIRES-NETWORK.aternos.me",
-    "port": 47206,
+    "ip": "EMPIRES_NETWORK.aternos.me:52293",
+    "port": 52293,
     "version": "",
     "try-creative": false
   },
