@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": ":EMPIRES_NETWORK.aternos.me",
+    "ip": "EMPIRES_NETWORK.aternos.me",
     "port": 52293,
     "version": "",
     "try-creative": false
@@ -73,7 +73,7 @@
     "place-night": false
   },
   "discord": {
-    "enabled": true,
+    "enabled": false,
     "webhookUrl": "https://discord.gg/sC8BzZYxdB",
     "events": {
       "connect": true,
